@@ -35,7 +35,7 @@ Two layers of alerting:
 ## Quick start
 
 ```bash
-cd expense-app-stages/v1-metrics
+cd v1-metrics
 docker compose up -d --build
 ```
 
